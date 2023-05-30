@@ -15,31 +15,31 @@ The different parameters in the dataset are -
 •	Research : Binary values of either 1 or 0
 •	Chance of Admit : Probability of the student to get admission the university
 
-DATA PREVIEW
+DATA PREVIEW:
 
  ![image](https://github.com/IvyNjoroge/task1/assets/111203571/6d494c5b-1d75-4bb4-ae7f-7026619e5875)
 
 The data contained 400 rows and 9 columns.
 
-CORRELATION
+CORRELATION:
 
 ![image](https://github.com/IvyNjoroge/task1/assets/111203571/85e32a92-40c0-4289-9ace-af52d146ae22)
 
 CGPA has the highest correlation to Chance of Admit meaning it's the most important feature for getting selected while research is the least. 
  
-Comparison between CGPA and Chance of Admission
+Comparison between CGPA and Chance of Admission:
 
  ![image](https://github.com/IvyNjoroge/task1/assets/111203571/b9170646-0b7b-450a-938e-3232213b97c4)
 
-Comparison between GRE Score and Chance of Admission
+Comparison between GRE Score and Chance of Admission:
 
  ![image](https://github.com/IvyNjoroge/task1/assets/111203571/7a5e7674-9d4d-4f6d-b8ff-d64f0f471d3c)
 
-Comparison between TOEFL Score and Chance of Admission
+Comparison between TOEFL Score and Chance of Admission:
 
  ![image](https://github.com/IvyNjoroge/task1/assets/111203571/9221027f-2067-4dba-b16b-b0d917510714)
 
-Comparison of R2 Scores of all 5 regression models
+Comparison of R2 Scores of all 5 regression models:
 
  ![image](https://github.com/IvyNjoroge/task1/assets/111203571/a756b38f-bca6-4fed-bdc7-307e1b0395f8)
 
